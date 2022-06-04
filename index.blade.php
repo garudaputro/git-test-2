@@ -10,6 +10,8 @@
 
 <body>
     <h1>ini adalah file laravel</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta, veniam! Nostrum pariatur rem dolores accusamus
+        veritatis odit corporis quaerat iste.</p>
 </body>
 
 </html>
